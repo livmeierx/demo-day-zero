@@ -1,1 +1,1 @@
-# demo-day-zero
+# demo-day-0
